@@ -1,0 +1,6 @@
+{
+  "name": "Folio — Data Importer & Interactive Dashboard Template",
+  "description": "Reusable TypeScript data importer, validator, and template generator that transforms CSV, TSV, and JSON datasets into the interactive Folio 10-chart dashboard format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
